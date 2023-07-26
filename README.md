@@ -1,5 +1,5 @@
 # Task One
-This is the first assigned task from the 3rd Data Analysis Cohort with Promise Chinonso
+This is the first assigned task from the 3rd Data Analysis Cohort with **Promise Chinonso**
 
 # Introduction
 As part of the learning process of the 3rd data analysis training by Promise Chinonso, we were assigned the task of creating a table of information for our first task, which consists of 20 rows and 5 columns and included the following information: Employee ID, Employee Full Name, Department, Salary and Job Type.
@@ -25,7 +25,7 @@ As the first activity for this task, I used the filter function to the headers f
 The second activity was to split the employees' full names into first and last name columns. To do this, I inserted an extra column to the right of the employee full name column then used the text-to-column function located in the data tab, specifying space as the delimiter between my data. Then in order to find duplicates, I applied the conditional formatting function on my data set, and the duplicate names with the same information were highlighted in green.
 ![Screenshot (3)](https://github.com/Yomeh/Data-Analysis-Cohort-3_Task1/assets/140501792/c8a92008-9c30-490b-90d3-861d20ba5da8)
 #
-For the last activity, to get the names of employees' that began with E, I applied the filter function to the names column to identify names beginning with E, I then highlighted the results manually using the text function. After this, I applied the conditional formatting to the salary column so as to highlight the cells with the highest value in green colour and the lowest in red colour.
+For the last activity, to get the names of employees' that began with **E**, I applied the filter function to the names column to identify names beginning with **E**, I then highlighted the results manually using the text function. After this, I applied the conditional formatting to the salary column so as to highlight the cells with the highest value in green colour and the lowest in red colour.
 ![Screenshot (4)](https://github.com/Yomeh/Data-Analysis-Cohort-3_Task1/assets/140501792/620fbc76-17a5-4f27-be66-9416d59cbcd3)
 
 # Conclusion
